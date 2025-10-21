@@ -1,8 +1,7 @@
 
 ***
 
-# 💻 Basic Git Version Control Guide - Main Branch Update!
-
+# 💻 Basic Git Version Control Guide - Final Update!
 This guide provides a fundamental overview of Git, the widely-used Distributed Version Control System (DVCS), covering core concepts, essential commands, and basic repository management.
 
 ***
